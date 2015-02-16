@@ -36,7 +36,7 @@
         -webkit-align-items: center;
         -webkit-justify-content: space-around;
         text-decoration: none;
-        color: black;
+        color: #888 !important;
         font-size: 1.5em;
       }
 
@@ -847,10 +847,10 @@ head.appendChild(script);
           <b:include name='title'/>         
         </h1>
          <div class="header-nav">
-            <a href="">About</a>
-            <a href="">Art</a>
-            <a href="">Sewing</a>
-            <a href="">Fashion</a>
+            <a href="/p/about.html">About</a>
+            <a href="/search/label/art">Art</a>
+            <a href="/search/label/sewing">Sewing</a>
+            <a href="/search/label/fashion">Fashion</a>
           </div>
       </div>
      
